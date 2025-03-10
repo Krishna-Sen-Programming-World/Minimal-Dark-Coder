@@ -1,4 +1,4 @@
-# Minimal Dark Coder Theme @Krishna
+# Minimal-Dark-Coder Theme @Krishna
 Minimal Dark Coder Theme theme for [Obsidian](https://obsidian.md/), compatible with Obsidian v1.8.9.
 ![Screenshot](./screenshot.jpg)
 
