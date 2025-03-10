@@ -6,7 +6,7 @@ Minimal Dark Coder Theme theme for [Obsidian](https://obsidian.md/), compatible 
 It Provies Minimal Dark Coder like theme designed specifically for coders. Perfect for those who want a sleek, coder-friendly interface for their notes and projects.
 
 ## Install
-1. Download obsidian.css to your Obsidian vault folder.
+1. Download theme.css to your Obsidian vault folder.
 2. In Obsidian, click Settings->Plugins and turn on "Custom CSS".
 3. There is no step 3! Enjoy!
 
