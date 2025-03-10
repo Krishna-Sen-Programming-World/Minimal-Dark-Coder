@@ -1,0 +1,10 @@
+{
+  "author": "Krishna Sen",
+  "minAppVersion": "v1.5.12",
+  "name": "Minimal Dark Coder",
+  "version": "1.0.0",
+  "description": "Provies Minimal Dark Coder like theme designed specifically for coders. Perfect for those who want a sleek, coder-friendly interface for their notes and projects.",
+  "id": "Minimal-Dark-Coder",
+  "repo": "Krishna-Sen-Programming-World/Minimal-Dark-Coder",
+  "isDesktopOnly": false
+}
