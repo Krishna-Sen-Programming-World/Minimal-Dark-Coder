@@ -1,7 +1,7 @@
 # Minimal-Dark-Coder
 Minimal Dark Coder Theme theme for [Obsidian](https://obsidian.md/), compatible with Obsidian v1.8.9.
 ![Screenshot](./screenshot.jpg)
-
+![[Links_View.jpg]]
 ## Description
 It Provies Minimal Dark Coder like theme designed specifically for coders. Perfect for those who want a sleek, coder-friendly interface for their notes and projects.
 
