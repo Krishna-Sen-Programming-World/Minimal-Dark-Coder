@@ -10,6 +10,7 @@
   --text-accent: #32CD32;
   --text-accent-hover: #FF5C8F;
   --text-selection: #29502e;
+  --text-highlight-bg: #29502e;
 }
 
 .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-title ,
